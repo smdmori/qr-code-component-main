@@ -39,6 +39,12 @@ body {
   font-family: "Outfit", sans-serif;
 }
 
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
   padding: 1em;
   border-radius: 18px;
